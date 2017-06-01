@@ -1,0 +1,25 @@
+.v-star {
+  font-size: 0.5rem;
+}
+
+.stars {
+  color: #b2b2b2;
+  font-size: 1.5rem;
+}
+
+.star-content {
+  text-align: center;
+  padding: 30px 20px 10px;
+}
+
+.active {
+  color: #ff8928;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.desc {
+  padding-bottom: 30px;
+}

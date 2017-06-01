@@ -1,0 +1,44 @@
+@keyframes popshow {
+  from {
+    top: -1rem;
+  }
+  to {
+    top: 0;
+  }
+}
+
+@keyframes pophide {
+  from {
+    top: 0;
+  }
+  to {
+    top: -1rem;
+  }
+}
+
+.v-popup {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(0,0,0,0.4);
+  font-size: 0.4rem;
+  color: #fff;
+  padding: 0.4rem 0.2rem;
+}
+
+.show {
+  animation: popshow 0.3s ease-in-out;
+}
+
+.hide {
+  animation: pophide 0.3s ease-in-out;
+}
+
+.error {
+  background-color: rgba(255, 83, 63, 0.8);
+}
+
+.success {
+  background-color: rgba(250, 250, 250, 0.85);
+}
