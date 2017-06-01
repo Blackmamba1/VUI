@@ -21,7 +21,7 @@
 
 <script lang="babel">
   /**
-   * Created by ablipan on 17/5/24.
+   * Created by ablipan on 17/6/1.
    * v-input
    */
   import './index.css'
