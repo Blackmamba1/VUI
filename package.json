@@ -1,9 +1,9 @@
 {
-  "name": "vui",
-  "version": "1.0.0",
+  "name": "easy-vui",
+  "version": "0.1.1",
   "description": "A Simple UI Component",
   "author": "张经国 <zhangjg@asiainfo.com>",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
