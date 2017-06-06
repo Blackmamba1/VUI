@@ -1,7 +1,7 @@
 {
   "name": "easy-vui",
-  "version": "0.1.8",
-  "description": "A Simple UI Component",
+  "version": "0.1.12",
+  "description": "A Simple UI lib for vue2.0",
   "author": "张经国 <zhangjg@asiainfo.com>",
   "private": false,
   "main": "index.js",
