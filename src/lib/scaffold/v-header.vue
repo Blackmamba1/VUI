@@ -14,6 +14,7 @@
 <script>
   import './header.css'
   export default {
+    name: 'v-header',
     data () {
       return {
         test: '内容为空'

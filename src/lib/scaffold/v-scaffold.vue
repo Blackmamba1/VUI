@@ -41,6 +41,7 @@
 <script>
   import vHeader from './v-header.vue'
   export default {
+    name:'v-scaffold',
     components: {
       'v-header': vHeader
     },
