@@ -11,7 +11,6 @@ import vStar from './v-star'
 import vButton from './v-button'
 import vModal from './v-modal'
 import vConfirm from './v-confirm'
-import vProcess from './process/process.vue'
 import vToast from './v-toast'
 import vScaffold from './scaffold/v-scaffold.vue'
 import vTool from './v-tool'
@@ -26,7 +25,6 @@ export {
   vButton,
   vModal,
   vConfirm,
-  vProcess,
   vToast,
   vScaffold,
   vTool
