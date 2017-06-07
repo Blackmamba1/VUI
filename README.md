@@ -21,5 +21,5 @@ import 'easy-vui'
 ## Demo
 
 ```
-  I Will Update Demo Later  ^_^
+ I Will Update Demo Later  ^_^
 ```
