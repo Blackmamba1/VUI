@@ -7,13 +7,13 @@
 
 ## Install
 
-```
+```bash
 npm install easy-vui
 ```
 
 ## Get Started
 
-```
+```javascript
 import Vue from 'vue'
 import 'easy-vui'
 ```
