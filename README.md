@@ -9,5 +9,20 @@
 
 ```
 npm install easy-vui
+
 ```
 
+## Get Started
+
+```
+import Vue from 'vue'
+import 'easy-vui'
+
+```
+
+## Demo
+
+```
+  I Will Update Demo Later  ^_^
+
+```
